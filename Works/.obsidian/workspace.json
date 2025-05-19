@@ -26,6 +26,20 @@
             }
           },
           {
+            "id": "a0e84fff9be32fbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memo/Text memo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Text memo"
+            }
+          },
+          {
             "id": "9c5ddcdc2c426813",
             "type": "leaf",
             "state": {
@@ -39,7 +53,8 @@
               "title": "高等研 応募書類"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9dfcc344fefaf5aa",
@@ -203,12 +218,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "792490bc486f1573",
+  "active": "a0e84fff9be32fbe",
   "lastOpenFiles": [
+    "Mind map/Thermal sensation.canvas",
+    "Memo/Text memo.md",
     "memo/text.md",
     "Memo/text.md",
     "Memo",
-    "Mind map/Thermal sensation.canvas",
     "Texts/高等研 応募書類.md",
     "Texts/ネットワーク.md",
     "Mind map",
