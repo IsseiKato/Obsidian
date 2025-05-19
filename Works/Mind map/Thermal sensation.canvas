@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a147173e87043811","type":"text","text":"","x":229,"y":-460,"width":250,"height":60},
+		{"id":"bde2134f35da4cd1","type":"text","text":"温度感覚","x":-100,"y":-360,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a7b77e0b2b807cf9","fromNode":"bde2134f35da4cd1","fromSide":"right","toNode":"a147173e87043811","toSide":"left"}
+	]
+}
