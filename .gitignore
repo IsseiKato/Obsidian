@@ -1,2 +1,23 @@
 .DS_Store
 .obsidian/workspace.json
+
+# macOS特有の不要ファイル
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder設定
+Icon?
+._*
+
+# ゴミ箱
+.Trashes
+
+# Obsidian関連（キャッシュなど、履歴管理不要）
+.obsidian/workspace.json
+.obsidian/appearance.json
+
+# その他
+Thumbs.db
+ehthumbs.db
+Desktop.ini
